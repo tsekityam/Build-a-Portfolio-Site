@@ -18,6 +18,8 @@
   width: 100%;
 }
 
+.google-play-badge img {
+  height: 40px;
 }
 
 .notices, .notices a {
